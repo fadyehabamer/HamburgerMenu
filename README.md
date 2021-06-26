@@ -1,6 +1,6 @@
 # Hamburger Menu
 > using **javascript & CSS animation**
 
-<p align="center">
+<p >
   <img src="img.gif">
 </p>
