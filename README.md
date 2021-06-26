@@ -1,2 +1,2 @@
 # Hamburger Menu
-> using ***js*** 
+> using **javascript & CSS animation**
